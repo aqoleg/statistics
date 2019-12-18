@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_marginTop="8dp" android:gravity="left" tools:ignore="RtlHardcoded">
+    <TextView android:id="@+id/button0" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:paddingLeft="8dp" android:paddingRight="8dp" android:paddingTop="6dp" android:paddingBottom="6dp"
+        android:textSize="12sp" />
+    <TextView android:id="@+id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp" android:paddingLeft="8dp" android:paddingRight="8dp" android:paddingTop="6dp"
+        android:paddingBottom="6dp" android:textSize="12sp" />
+</LinearLayout>

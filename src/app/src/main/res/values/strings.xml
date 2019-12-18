@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label">Statistics</string>
+
+    <string name="next">Next chart</string>
+    <string name="theme">Switch theme</string>
+
+    <string name="title0">Followers</string>
+    <string name="title1">Interactions</string>
+    <string name="title2">Messages</string>
+    <string name="title3">Views</string>
+    <string name="title4">Apps</string>
+    <string name="zoomIn">Zoom in</string>
+    <string name="zoomOut">Zoom out</string>
+
+    <string name="gridSdf">MMM d</string>
+    <string name="detailedGridSdf">HH:mm</string>
+    <string name="pointSdf">E, d MMM yyyy</string>
+    <string name="detailedPointSdf">d MMM, HH:mm</string>
+
+    <string name="buttonSdf">d MMM</string>
+
+    <string name="about">aqoleg.space</string>
+    <string name="noData">No data!</string>
+</resources>
